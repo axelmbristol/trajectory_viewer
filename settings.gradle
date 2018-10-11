@@ -1,0 +1,3 @@
+rootProject.name = 'trajectory_viewer'
+include 'trajectory_viewer'
+
